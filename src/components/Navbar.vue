@@ -1,7 +1,6 @@
 <template>
-  <nav></nav>
   <!-- Navigation-->
-  <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
+  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white py-3">
     <div class="container px-5">
       <a class="navbar-brand" href="/"
         ><span class="fw-bolder text-primary">Portfolio yogisyahputra</span></a
